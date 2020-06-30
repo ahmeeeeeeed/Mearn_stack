@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cc87f79-f428-4dc1-b3e7-c39d66d573f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gogo-React/src/assets/css/sass/_gogo.style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Gogo-React/src/assets/css/sass/_gogo.style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gogo-React/src/assets/css/vendor/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Gogo-React/src/assets/css/vendor/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gogo-React/src/constants/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/Gogo-React/src/constants/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gogo-React/src/containers/ui/ReactTableCards.js" beforeDir="false" afterPath="$PROJECT_DIR$/Gogo-React/src/containers/ui/ReactTableCards.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gogo-React/src/data/products.js" beforeDir="false" afterPath="$PROJECT_DIR$/Gogo-React/src/data/products.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gogo-React/src/lang/locales/en_US.js" beforeDir="false" afterPath="$PROJECT_DIR$/Gogo-React/src/lang/locales/en_US.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gogo-React/src/views/app/applications/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Gogo-React/src/views/app/applications/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gogo-React/src/views/app/pages/Teachers.js" beforeDir="false" afterPath="$PROJECT_DIR$/Gogo-React/src/views/app/pages/Teachers.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZcI3M30fE21jo98PHd24ufvSbz" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Gogo-React/src/containers/pages" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Users\Med Amine\AppData\Local\JetBrains\WebStorm 2019.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Med Amine\Desktop\PIDEVWEB\gogoreact40\Source\BrainWave\Gogo-React\src\containers\pages" />
+      <recent name="C:\Users\Med Amine\Desktop\PIDEVWEB\gogoreact40\Source\BrainWave\Gogo-React\src\views\app\applications" />
+      <recent name="C:\Users\Med Amine\Desktop\PIDEVWEB\gogoreact40\Source\BrainWave\Gogo-React\src\containers\applications" />
+      <recent name="C:\Users\Med Amine\Desktop\PIDEVWEB\gogoreact40\Source\BrainWave\Gogo-React\src\containers\dashboards" />
+      <recent name="C:\Users\Med Amine\Desktop\PIDEVWEB\gogoreact40\Source\BrainWave\Gogo-React\src\components\cards" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cc87f79-f428-4dc1-b3e7-c39d66d573f8" name="Default Changelist" comment="" />
+      <created>1585131755554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585131755554</updated>
+      <workItem from="1585131757529" duration="4441000" />
+      <workItem from="1585152000754" duration="27572000" />
+      <workItem from="1585321493712" duration="9268000" />
+      <workItem from="1585337971885" duration="29686000" />
+      <workItem from="1585405038704" duration="29425000" />
+      <workItem from="1585491405854" duration="24264000" />
+      <workItem from="1585582528502" duration="15018000" />
+      <workItem from="1586022145890" duration="2309000" />
+      <workItem from="1586050627945" duration="41000000" />
+      <workItem from="1586260313273" duration="18886000" />
+      <workItem from="1586305399337" duration="1662000" />
+      <workItem from="1586305041782" duration="21465000" />
+      <workItem from="1586390439333" duration="24194000" />
+      <workItem from="1586467582753" duration="20589000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Gogo-React/src/containers/form-validations/FormikBasicFieldLevel.js</url>
+          <line>76</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Gogo-React/src/containers/dashboards/Calendar.js</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
