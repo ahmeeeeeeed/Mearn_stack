@@ -6,7 +6,7 @@
   "dependencies": {
     "@popperjs/core": "^2.4.2",
     "availity-reactstrap-validation": "^2.0.4",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
     "chart.js": "^2.7.2",
     "classnames": "2.2.6",
